@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba del modulo2 del prepcourse de Henry
+alvaro david niño
+este proyetco es una prueba de como crear un repositorio en git humb y bajarlo al computador de form local para poderlo modificar 
